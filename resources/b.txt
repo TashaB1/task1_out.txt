@@ -1,0 +1,6 @@
+1 McDonalds
+2 Wendy's
+3 Burger King
+4 Five Guys
+5. Dunkin Donuts
+1 McDonalds2
